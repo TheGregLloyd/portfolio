@@ -1,0 +1,14 @@
+
+
+.site-hero{
+    background-image: url(../assets/hero.png);
+    
+
+}
+
+.site-hero-content{
+    display: flexbox;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
