@@ -1,3 +1,7 @@
+# Work on the main branch
+
+All changes should be made on the main branch and then use npm run deploy to build the app and update the branch for github pages
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
