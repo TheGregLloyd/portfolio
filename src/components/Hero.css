@@ -1,13 +1,16 @@
 
 
 .site-hero{
+    min-height: calc(100vh - 72px);
+    min-height: calc(100dvh - 72px);
     background-image: url(../assets/hero.png);
-    
-
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .site-hero-content{
-    display: flexbox;
+    display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: space-between;
