@@ -2,6 +2,9 @@
 
 All changes should be made on the main branch and then use npm run deploy to build the app and update the branch for github pages
 
+# To update the changes
+run <code>npm run build</code> and <code>npm run lint</code> then <code>npm run dev</code> and to update the changes to the github pages <code>npm run deploy</code>
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
